@@ -9,7 +9,7 @@ FUBO
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3dcfbec0e7146928baa55210bf2cb62f":"bc85f74f815d9be5ae1dd6defaa05135"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent", FUBO SPORTS (FEAG)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent", FUBO SPORTS (FEAG)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
@@ -18,7 +18,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f}
-#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",FUBO SPORTS 2 (FEAG)
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",FUBO SPORTS 2 (FEAG)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
@@ -26,37 +26,37 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 DAZN
 ==========================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",DAZN 1 Spain (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",DAZN 1 Spain (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium445/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",DAZN 2 Spain (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",DAZN 2 Spain (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",DAZN 3 Spain (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",DAZN 3 Spain (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",DAZN 4 Spain (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",DAZN 4 Spain (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",DAZN 1 Bar DE (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",DAZN 1 Bar DE (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",DAZN 2 Bar DE (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",DAZN 2 Bar DE (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -66,91 +66,91 @@ https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 ARENA SPORT
 =========================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",Arena Sport 1 Croatia (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",Arena Sport 1 Croatia (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",Arena Sport 1 Premium (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",Arena Sport 1 Premium (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium134/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent" ,Arena Sport 1 Serbia (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent" ,Arena Sport 1 Serbia (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/ 
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium429/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent" ,Arena Sport 2 Croatia (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent" ,Arena Sport 2 Croatia (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",Arena Sport 2 Premium (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",Arena Sport 2 Premium (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent" ,Arena Sport 2 Serbia (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent" ,Arena Sport 2 Serbia (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent" ,Arena Sport 3 Croatia (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent" ,Arena Sport 3 Croatia (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent" ,Arena Sport 3 Premium (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent" ,Arena Sport 3 Premium (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",Arena Sport 3 Serbia (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",Arena Sport 3 Serbia (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium431/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent" ,Arena Sport 4 Croatia (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent" ,Arena Sport 4 Croatia (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium580/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",Arena Sport 4 Serbia (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",Arena Sport 4 Serbia (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium581/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",Astro Grandstand (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",Astro Grandstand (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",Astro Footbal (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",Astro Footbal (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium124/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",Astro Premier league 1 (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",Astro Premier league 1 (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="Footballevent",Astro Premier league 2 (AGF)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="footbalevent",Astro Premier league 2 (AGF)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
